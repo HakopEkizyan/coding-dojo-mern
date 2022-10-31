@@ -5,14 +5,6 @@ They have given you a task to update the Javascript in their site to ES6, so tha
 
 Take the following HTML and update all functions to arrow functions.
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Arrow Functions</title>
-</head>
 <body id="body">
     <h1>My Boring Website</h1>
     <p id="paragraph">
@@ -57,4 +49,3 @@ Take the following HTML and update all functions to arrow functions.
         }
     </script>
 </body>
-</html>
