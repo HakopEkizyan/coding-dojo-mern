@@ -1,2 +1,2 @@
-#Prop it up Core assignment
+Prop it up Core assignment
 Hakop Ekizyan
