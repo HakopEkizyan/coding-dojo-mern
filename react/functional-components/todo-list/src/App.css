@@ -1,0 +1,11 @@
+.line{
+  text-decoration: line-through;
+}
+
+.bold {
+  font-style: bold;
+}
+
+.italic {
+  font-style: italic;
+}
